@@ -1,0 +1,22 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# --- Virtual environment ---
+.venv/
+venv/
+
+# --- OS / Editor ---
+.DS_Store
+Thumbs.db
+.vscode/
+
+# --- PyQt / Qt ---
+*.qmlc
+*.qrc
+
+# --- Build artifacts ---
+build/
+dist/
